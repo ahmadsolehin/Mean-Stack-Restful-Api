@@ -11,17 +11,6 @@ This repo contains the code for a RESTful API Contact List App that was built us
 <li>NodeJS</li>
 </ul>
 
-<h3>YouTube Tutorial</h3>
-
-Here is the 5-part YouTube tutorial for this MEAN stack app:
-
-<h4><a href="https://www.youtube.com/watch?v=kHV7gOHvNdk">Part 1/5: Using MongoDB, Express, AngularJS, and NodeJS Together</a></h4>
-
-<h4><a href="https://www.youtube.com/watch?v=7F1nLajs4Eo">Part 2/5: AngularJS and NodeJS App Tutorial</a></h4>
-
-<h4><a href="https://www.youtube.com/watch?v=oVIeMfvgTz8">Part 3/5: MongoDB Tutorial: Downloading, Installing, and Basics</a></h4>
-
-<h4><a href="https://www.youtube.com/watch?v=iFsYJG3fGro">Part 4/5: RESTful API, GET and POST Data</a></h4>
 
 
 <h3>Instructions</h3>
