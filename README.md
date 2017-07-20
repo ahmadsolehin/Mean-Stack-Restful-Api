@@ -1,4 +1,7 @@
 # MEAN Stack RESTful API Tutorial - Contact List App
+
+MEAN Stack RESTful API . perform DELETE and PUT requests with NodeJS, AngularJS, Express, and MongoDB.
+
 <h2>MEAN Stack RESTful API Tutorial - Contact List App</h2>
 
 
